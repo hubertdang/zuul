@@ -1,5 +1,5 @@
 Project: zuul-better
-Authors: Michael Kolling and David J. Barnes
+Authors: Michael Kolling, David J. Barnes, Hubert Dang
 
 This project is part of the material for the book
 
