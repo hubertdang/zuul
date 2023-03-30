@@ -3,7 +3,7 @@ import java.util.*;
  * Class TransporterRoom models a room that can randomly transport the player 
  * into another room
  *
- * @author Hubert Dang 101229101
+ * @author Hubert Dang
  * @version March 12, 2023
  */
 public class TransporterRoom extends Room
