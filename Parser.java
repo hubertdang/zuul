@@ -20,7 +20,7 @@ import java.util.StringTokenizer;
  * @author Lynn Marshall
  * @version October 21, 2012
  * 
- * @author Hubert Dang 101229101
+ * @author Hubert Dang 
  * @version February 11, 2023
  */
 public class Parser 
