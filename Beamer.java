@@ -4,7 +4,7 @@
  * When the beamer is charged, it memorizes the current room. When the beamer
  * is fired, it transports the player 
  *
- * @author Hubert Dang 101229101
+ * @author Hubert Dang
  * @version March 12, 2023
  */
 public class Beamer extends Item
