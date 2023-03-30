@@ -19,7 +19,7 @@ import java.util.ArrayList;
  * @author Lynn Marshall
  * @version October 21, 2012
  * 
- * @author Hubert Dang 101229101
+ * @author Hubert Dang 
  * @version March 12, 2023
  */
 
