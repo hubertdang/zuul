@@ -7,7 +7,7 @@
  * An "Item" represents one item in a room of the game. Each item
  * has a name, description, and a weight in kg.
  *
- * @author Hubert Dang 101229101
+ * @author Hubert Dang 
  * @version March 12, 2023
  */
 
